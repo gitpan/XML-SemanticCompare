@@ -4,7 +4,7 @@ name 'XML-SemanticCompare';
 
 # all_from 'lib/XML/SemanticCompare.pm';
 author 'Edward Kawas <edward.kawas+xml-semantic-compare@gmail.com>';
-version '0.91';
+version '0.92';
 license 'perl';
 abstract 'Compare 2 XML files semantically';
 
